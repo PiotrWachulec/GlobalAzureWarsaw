@@ -1,0 +1,160 @@
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+        <description>Global Azure Warsaw</description>
+        
+            <language>pl-pl</language>
+        
+        
+        <link>http://localhost:1313/</link>
+        
+        
+            <title>Global Azure Warsaw</title>
+        
+        
+        
+            <item>
+                
+                
+                    <description><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+<div class="paige-image">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img  alt="Landscape"   class="img-fluid object-fit-cover rounded-4 shadow"  crossorigin="anonymous"  fetchpriority="high"    referrerpolicy="no-referrer"  src="/images/GlobalAzure2023WarsawWhiteEvenea.png"   style="height: 40rem; width: 100%"   >
+</div>
+
+
+<h1 id="nasi-prelegenci">Nasi prelegenci</h1>
+<script type="text/javascript" src="https://sessionize.com/api/v2/or8vzwcw/view/Speakers"></script>
+<h1 id="prezentacje">Prezentacje</h1>
+<script type="text/javascript" src="https://sessionize.com/api/v2/or8vzwcw/view/Sessions"></script>
+<h1 id="rozkład-jazdy">Rozkład jazdy</h1>
+<script type="text/javascript" src="https://sessionize.com/api/v2/or8vzwcw/view/GridSmart"></script>
+<h1 id="rejestracja">Rejestracja</h1>
+<iframe src="https://app.evenea.pl/event/globalazurewarsaw2023/?out=1&source=event_iframe" width="100%" scrolling="no" style="border: 0;"></iframe>
+<script type="text/javascript" src="https://app.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
+<h1 id="pomagamy">Pomagamy!</h1>
+<p><a href="https://www.siepomaga.pl/remek-kieszkowski">https://www.siepomaga.pl/remek-kieszkowski</a></p>
+]]></description>
+                
+                
+                    <guid>http://localhost:1313/</guid>
+                    <link>http://localhost:1313/</link>
+                
+                
+                    <pubDate>Mon, 24 Apr 2023 09:42:29 &#43;0200</pubDate>
+                
+                
+                    <title>Global Azure 2023 Warsaw Edition</title>
+                
+            </item>
+        
+    </channel>
+</rss>
