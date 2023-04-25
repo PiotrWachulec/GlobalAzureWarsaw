@@ -127,21 +127,25 @@
 
 
 
-<img  alt="Landscape"   class="img-fluid object-fit-cover rounded-4 shadow"  crossorigin="anonymous"  fetchpriority="high"    referrerpolicy="no-referrer"  src="/images/GlobalAzure2023WarsawWhiteEvenea.png"   style="height: 40rem; width: 100%"   >
+<img  alt="Landscape"   class="img-fluid object-fit-cover rounded-4 shadow"  crossorigin="anonymous"  fetchpriority="high"    referrerpolicy="no-referrer"  src="/images/GlobalAzure2023WarsawWhiteEvenea.png"   style="height: 45rem; width: 100%"   >
 </div>
 
 
 <h1 id="nasi-prelegenci">Nasi prelegenci</h1>
+<p>Poznaj naszych prelegentów</p>
 <script type="text/javascript" src="https://sessionize.com/api/v2/or8vzwcw/view/Speakers"></script>
 <h1 id="prezentacje">Prezentacje</h1>
+<p>Zobacz, jakie sesje przygotowali</p>
 <script type="text/javascript" src="https://sessionize.com/api/v2/or8vzwcw/view/Sessions"></script>
 <h1 id="rozkład-jazdy">Rozkład jazdy</h1>
+<p>Wstępna agenda</p>
 <script type="text/javascript" src="https://sessionize.com/api/v2/or8vzwcw/view/GridSmart"></script>
-<h1 id="rejestracja">Rejestracja</h1>
-<iframe src="https://app.evenea.pl/event/globalazurewarsaw2023/?out=1&source=event_iframe" width="100%" scrolling="no" style="border: 0;"></iframe>
-<script type="text/javascript" src="https://app.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
 <h1 id="pomagamy">Pomagamy!</h1>
 <p><a href="https://www.siepomaga.pl/remek-kieszkowski">https://www.siepomaga.pl/remek-kieszkowski</a></p>
+<h1 id="rejestracja">Rejestracja</h1>
+<p>Dołącz do nas</p>
+<iframe src="https://app.evenea.pl/event/globalazurewarsaw2023/?out=1&source=event_iframe" width="100%" scrolling="no" style="border: 0;"></iframe>
+<script type="text/javascript" src="https://app.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
 ]]></description>
                 
                 
