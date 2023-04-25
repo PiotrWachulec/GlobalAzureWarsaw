@@ -131,21 +131,40 @@
 </div>
 
 
-<h1 id="nasi-prelegenci">Nasi prelegenci</h1>
-<p>Poznaj naszych prelegentów</p>
+<p>Oczywiście nie możemy pominąć Global Azure w 2023 roku! Dlatego też świętujemy razem m. in. w Warszawie! Już w dniach 11. - 13. maja 2023 roku planujemy:</p>
+<ul>
+<li>sesje online (11. i 12. maja) - będą nagrane i udostępnione w Internecie,</li>
+<li>warsztaty onsite 13. maja - Bicep - from zero to hero,</li>
+<li>niespodzianka 😉</li>
+</ul>
+<h1 id="część-online">Część online</h1>
+<h2 id="nasi-prelegenci">Nasi prelegenci</h2>
+<p>Poznaj naszych prelegentów!</p>
 <script type="text/javascript" src="https://sessionize.com/api/v2/or8vzwcw/view/Speakers"></script>
-<h1 id="prezentacje">Prezentacje</h1>
-<p>Zobacz, jakie sesje przygotowali</p>
+<h2 id="prezentacje">Prezentacje</h2>
+<p>Zobacz, jakie sesje przygotowali:</p>
 <script type="text/javascript" src="https://sessionize.com/api/v2/or8vzwcw/view/Sessions"></script>
-<h1 id="rozkład-jazdy">Rozkład jazdy</h1>
+<h2 id="rozkład-jazdy">Rozkład jazdy</h2>
 <p>Wstępna agenda</p>
+<blockquote>
+<p>Rozkład agendy może ulec zmianie! Po zapisaniu się na wydarzenie dostaniesz powiadomienie, kiedy ostateczna agenda będzie potwierdzona!</p>
+</blockquote>
 <script type="text/javascript" src="https://sessionize.com/api/v2/or8vzwcw/view/GridSmart"></script>
+<h1 id="część-onsite">Część onsite</h1>
+<p>W ramach części onsite przejdziemy przez wprowadzenie do Bicep - od tworzenia podstawowych szablonów, poprzez budowanie większych infrastrucktur, automatyzacje i pipeline CI/CD, modularyzację oraz kilka smaczków ułatwiających pracę.</p>
+<blockquote>
+<p>Liczba miejsc jest ograniczona. **Dlatego gorąca prośba - jeśli wiesz, że nie dasz rady wziąć udziału w warsztatach - daj znać! Niech ktoś inny skorzysta! Dokładna lokalizacja będzie podana w ciągu najbliszych kilku dni (centrum Warszawy).</p>
+</blockquote>
 <h1 id="pomagamy">Pomagamy!</h1>
-<p><a href="https://www.siepomaga.pl/remek-kieszkowski">https://www.siepomaga.pl/remek-kieszkowski</a></p>
+<p>Chcemy przy okazji dobrej zabawy robić coś dobrego. Dlatego też w czasie trawania naszych polskich edycji Global Azure będziemy zachęcać do dołączenia do zbiórki na operacje i rehabilitację dla synka naszego kolegi <a href="https://www.linkedin.com/in/gkieszkowski/">Grzegorza</a> - pomóżmy razem Remkowi! <a href="https://www.siepomaga.pl/remek-kieszkowski">https://www.siepomaga.pl/remek-kieszkowski</a></p>
 <h1 id="rejestracja">Rejestracja</h1>
-<p>Dołącz do nas</p>
+<p>Dołącz do nas warszawskiej edycji Global Azure!</p>
+<h1 id="kontakt">Kontakt</h1>
+<p>Potrzebujesz więcej informacji? Pisz na <a href="mailto:piotr@wachulec.me">piotr@wachulec.me</a> albo na <a href="https://www.linkedin.com/in/piotrwachulec/">LinkedIn</a>!</p>
 <iframe src="https://app.evenea.pl/event/globalazurewarsaw2023/?out=1&source=event_iframe" width="100%" scrolling="no" style="border: 0;"></iframe>
 <script type="text/javascript" src="https://app.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
+<h1 id="do-zobaczenia">Do zobaczenia!</h1>
+<p>Do zobaczenia online/onsite! Daj znać swoim kolegom i koleżankom, im nas więcej, tym lepsze wydarzenie!</p>
 ]]></description>
                 
                 
