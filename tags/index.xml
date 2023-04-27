@@ -12,7 +12,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         
-            <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://globalazurewarsaw.net/tags/index.xml" rel="self" type="application/rss+xml"/>
         
         
         <description>Tags · Global Azure Warsaw</description>
@@ -20,7 +20,7 @@
             <language>pl-pl</language>
         
         
-        <link>http://localhost:1313/tags/</link>
+        <link>https://globalazurewarsaw.net/tags/</link>
         
         
             <title>Tags · Global Azure Warsaw</title>
